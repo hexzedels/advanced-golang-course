@@ -4,8 +4,8 @@
 
 Friday 23 October 2026, 19:30 MSK. There is no practice module this week. The first half
 runs the lecture's demos in [../demos/](../demos/) on your own machine and ends with Tier 0
-of the homework. The second half is an interview drill on the shared screen, with nothing
-to run.
+of the homework. The second half is an interview drill on the shared screen; its snippets
+are in [../drill/](../drill/), to try after the session.
 
 ## Before the session
 
