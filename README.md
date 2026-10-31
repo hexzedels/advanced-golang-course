@@ -11,7 +11,7 @@ at 19:30 MSK. The course runs from 7 October to 8 December 2026.
 1. [Goroutines and the scheduler](week-01-scheduler/)
 2. [Channels](week-02-channels/)
 3. [The memory model](week-03-memory-model/)
-4. Mutexes
+4. [Mutexes and the runtime semaphore](week-04-mutex/)
 5. The sync toolbox
 6. Context
 7. Concurrency patterns
